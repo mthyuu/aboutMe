@@ -1,21 +1,22 @@
 Matthew Thomas Elledge\
 Computer Science Student and Intern \
-__[Github](https://github.com/mthyuu)__ - GitHub Profile\
+mtelledge14@gmail.com \
+__[Github](https://github.com/mthyuu)__ - GitHub Homepage\
 __[Personal Webpage](https://matthewelledge.weebly.com/)__ - Past HS Engineering Work\
 __[LinkedIn](https://www.linkedin.com/in/matthew-elledge-797a34227/)__ - LinkedIn Profile
 
 ## Mission Statement
-Determined Computer Science Student at Kennesaw State University with 1 1/2 years experience in programming. Experience and fluency in the use of Java and C#, AutoCad, AutoCad Inventor, and project organization to expand upon in the future.
-
+Determined Computer Science Student at Kennesaw State University with 1 1/2 years experience in programming. Experience and fluency in the use of Java and C#,
+AutoCad, AutoCad Inventor, and project organization. Seeking hands-on intern experience to further expand and develop skill.
 ## Education
 
-### Bachelor of Science in Computer Science
+### Pursuing Bachelor of Science in Computer Science
 ##### Kennesaw State University 
 ###### August 2021 - Present
 ###### GPA: 3.94
 * Member of the Kennesaw State University Honors Program since Fall 2022
-* In the Double Owl Program for Computer Science, focusing in Cyber and Network Security
-* Member of the President's list Fall 2021 - Fall 23
+* Accepted to the Double Owl Masters Program for Computer Science, focused in Cybersecurity
+* Member of the President's list Fall 2021 - Fall 2023
 * Member of the Dean's list Spring 2023
 
 ### High School Diploma
@@ -35,7 +36,7 @@ Determined Computer Science Student at Kennesaw State University with 1 1/2 year
 ## Skills
 * Project Leading
 * Team Management
-* Working in groups
+* Group Work
 * AutoCAD
 * AutoCAD Inventor
 * Java
