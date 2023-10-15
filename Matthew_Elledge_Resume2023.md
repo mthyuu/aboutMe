@@ -1,4 +1,4 @@
-Matthew Thomas Elledge\
+# Matthew Thomas Elledge\
 Computer Science Student and Intern \
 mtelledge14@gmail.com \
 __[Github](https://github.com/mthyuu)__ - GitHub Homepage\
