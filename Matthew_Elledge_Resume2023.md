@@ -1,5 +1,5 @@
 # Matthew Thomas Elledge
-Computer Science Student and Intern \
+Computer Science Student \
 mtelledge14@gmail.com \
 __[Github](https://github.com/mthyuu)__ - GitHub Homepage\
 __[Personal Webpage](https://matthewelledge.weebly.com/)__ - Past HS Engineering Work\
