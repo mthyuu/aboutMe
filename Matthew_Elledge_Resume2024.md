@@ -14,6 +14,7 @@ AutoCad, AutoCad Inventor, and project organization. Currently developing experi
 ##### Kennesaw State University 
 ###### August 2021 - Present
 ###### GPA: 3.91
+* In a small group, created a small, locally hosted e-commerce website that was able to store registered users information in a SQL database, as well as display different products along with their price and relevant images using Java and Spring Boot
 * Member of the Kennesaw State University Honors Program since Fall 2022
 * Accepted to the Double Owl Masters Program for Computer Science, focused in Cybersecurity
 * Member of the President's list Fall 2021 - Fall 2022
