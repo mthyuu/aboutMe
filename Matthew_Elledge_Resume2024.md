@@ -1,45 +1,59 @@
-# Matthew Thomas Elledge
-Computer Science Student \
-mtelledge14@gmail.com \
-__[Github](https://github.com/mthyuu)__ - GitHub Homepage\
-__[Personal Webpage](https://matthewelledge.weebly.com/)__ - Past HS Engineering Work\
-__[LinkedIn](https://www.linkedin.com/in/matthew-elledge-797a34227/)__ - LinkedIn Profile
+**Matthew Thomas Elledge**
 
-## Mission Statement
-Determined Computer Science Student at Kennesaw State University with 2 years experience in programming. Experience and fluency in the use of Java and C#,
-AutoCad, AutoCad Inventor, and project organization. Currently developing experience with SQL. Seeking hands-on internship experience to further expand and develop skill.
-## Education
+Computer Science Student
 
-### Pursuing Bachelor of Science in Computer Science
-##### Kennesaw State University 
-###### August 2021 - Present
-###### GPA: 3.91
-* In a small group, created a small, locally hosted e-commerce website that was able to store registered users information in a SQL database, as well as display different products along with their price and relevant images using Java and Spring Boot
-* Member of the Kennesaw State University Honors Program since Fall 2022
-* Accepted to the Double Owl Masters Program for Computer Science, focused in Cybersecurity
-* Member of the President's list Fall 2021 - Fall 2022
-* Member of the Dean's list Spring 2023 - Fall 2023
+<mtelledge14@gmail.com> | 404-207-2916
 
-### High School Diploma
-##### Etowah High School 
-###### August 2018 - May 2022
-###### GPA: 4.3
-* Graduated in top 10% of class of 500+ students
-* Graduated with the Lamp of Knowledge Award
-* Recieved AutoCAD Proficiency Certificate - 2021
-* Dual-Enrolled at Kennesaw State Univ. during Senior year
+Github - github.com/mthyuu | Personal Webpage - matthewelledge.weebly.com
 
-## Work Experience
-### Freelance Software Engineer / Computer Science
-###### May 2021 - Present
-* Created small, various programs such as clocks, calculators, FSA machines, word games, and miniature databases for student records upon request
-* Working with AWS and finishing Cloud Practitioner Service
+**Mission Statement**
 
-## Skills
-* Project Leading
-* Team Management
-* Group Work
-* AutoCAD
-* AutoCAD Inventor
-* Java
-* C#
+Determined Computer Science Student at Kennesaw State University with 2 years experience in programming. Experience and fluency in the use of Java and C#, AutoCad, AutoCad Inventor, and project organization. Seeking further hands-on internship experience to further expand and develop skill.
+
+**Education**
+
+Kennesaw State University | August 2021 - Present | GPA: 3.93
+
+Pursuing Bachelor of Science in Computer Science
+
+- Member of the Kennesaw State University Honors Program since Fall 2022
+- Accepted to the Double Owl Masters Program for Computer Science, focused in Cybersecurity
+- Member of the President's list Fall 2021 - Spring 2024
+- Member of the Dean's list Spring 2023
+
+Etowah High School | August 2018 - May 2022 | GPA: 4.3
+
+- Graduated in top 10% of class of 500+ students
+- Graduated with the Lamp of Knowledge Award
+- Received AutoCAD Proficiency Certificate - 2021
+
+**Work Experience**
+
+TwelveStone Health Partners | Murfreesboro, TN | May 2024 - July 2024
+
+Network And Systems Administrative Assistant Intern
+
+- Worked directly under Network and Systems Admin, working in physical & virtual infrastructure and network security & maintenance
+- Contributed to ongoing projects and worked alongside the IT department in various roles
+- Assisted large working userbase across many remote locations through four states
+
+Freelance Software Engineer / Computer Science | May 2021 - Present
+
+- Continuing personal home server project with RPi5 and working in Linux
+
+Prime 120 Steakhouse | Woodstock, GA | July 2022 - November 2023
+
+Host / Front of House
+
+- Handled front of house, customer service, and flow of reservations/walk-ins
+
+Tea Time Woodstock LLC | Woodstock, GA | May 2020 - August 2021
+
+Barista / Front of House
+
+- Maintained POS system, trained new employees, and handled customer service
+
+
+**Skills**
+
+Project Leading | Team Management | AutoCAD / AutoCAD Inventor | Java | Spring Boot | C# | R | Linux
