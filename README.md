@@ -4,8 +4,7 @@
   - I've been working in programming since ~2021
   - I'm enrolled at **_Kennesaw State University_** as a full-time student, and will be graduating **_May 2025_** !
   - Currently and most recently have been working in Minecraft/Java Plugin development via PaperMC
-  - If you'd like more detailed information on what I've been up to, check my resume here:
-    - __[Resume](https://github.com/mthyuu/aboutMe/blob/main/matthew_elledge_resume2025_02.pdf)__
+  - If you'd like more detailed information on what I've been up to, check my resume __[here](https://github.com/mthyuu/aboutMe/blob/main/matthew_elledge_resume2025_02.pdf)__
     
 - ### 👀 **My interests**
   - I love all things tech and computers— have been PC gaming since Summer 2018
