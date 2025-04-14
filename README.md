@@ -11,9 +11,9 @@
   - I love all things tech and computers— have been PC gaming since Summer 2018
       - Built my first custom PC in January 2020 and have been upgrading it since ! 
   - I very much enjoy learning and bettering my skills in all aspects, but most especially in programming, as it develops my creative thought process and allows me to work on and build bigger and better projects !
-  - I also simply love typing, and have slowly become more of a keyboard fanatic since [I built mine custom]() ~October 2023
+  - I also simply love typing, and have slowly become more of a keyboard fanatic since [I built mine custom](https://github.com/mthyuu/aboutMe/blob/main/keyboard/keyboard%20desc.md) ~October 2023
       - My fastest typing speed to date, as of 4/14/25: __128 WPM!__
-      - __[My monkeytype page!]()__
+      - __[monke](https://monkeytype.com/profile/mthyuu)__
     
 - ### 🌱 **What I’m currently learning**
     - Wireless Security
