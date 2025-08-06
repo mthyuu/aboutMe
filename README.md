@@ -12,7 +12,7 @@
   - I love all things tech and computers— have been PC gaming since Summer 2018
       - Built my first custom PC in January 2020 and have been upgrading it since !
       - I also just upgraded and compacted it in May 2025, going for a more portable, SFF design
-      - Current specs list __here! (link coming soon)__
+      - Current specs list __[here!](https://pcpartpicker.com/user/MElledge14/saved/#view=jtYyVn)__
   - Currently (mostly) finished a working VPN setup for secure, remote access cloud storage via **__Nextcloud__**, **__Tailscale__**, and **__Docker__** (via Portainer) on my rpi 5
       - I pretty much used this as an excuse to learn more about VPNs, cloud storage, and Docker (and to actually get my money's worth from my dormant rpi)
       - Just got myself a fully-fledged 12U server rack to stow it along with other hardware in for more networking tinkering! Definitely a WIP for now lol
