@@ -5,7 +5,7 @@
   - I've just graduated from **_Kennesaw State University_** in **_May 2025_**, and are looking for more programming/dev roles !
   - Most recently have been working in Minecraft/Java Plugin development via PaperMC
       - Check out my Sr. Project repo where my team and I developed a Bloons Tower Defense style gamemode __[here!](https://github.com/KsuBlocksTD/BlocksTD1.0)__ (~9500 lines total)
-  - If you'd like more detailed information on what I've been up to, check my resume __[here](https://github.com/mthyuu/aboutMe/blob/main/matthew_elledge_resume2025_02.pdf)__
+  - If you'd like more detailed information on what I've been up to, check my resume __[here](https://github.com/mthyuu/aboutMe/blob/main/matthew_elledge_resume2025_dev.pdf)__
     
 - ### 👀 **My interests**
   - I love all things tech and computers— have been PC gaming since Summer 2018
